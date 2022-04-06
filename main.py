@@ -5,4 +5,4 @@ app = FastAPI()
 
 @app.get('/')
 def index():
-    return 'hey'
+    return 'momentum movers'
