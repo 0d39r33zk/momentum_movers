@@ -22,8 +22,6 @@ requests==2.27.1
 six==1.16.0
 sniffio==1.2.0
 starlette==0.17.1
-TA-Lib==0.4.24
-talipp==1.7.0
 toml==0.10.2
 typing-extensions==4.1.1
 urllib3==1.26.9
